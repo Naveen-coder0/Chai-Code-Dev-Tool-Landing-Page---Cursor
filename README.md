@@ -1,41 +1,34 @@
-# Cursor Landing Page — Static Clone
+# Cursor Landing Page Clone
 
-A static HTML/CSS recreation of the Cursor landing page used as a frontend assignment. The project is desktop-first but includes responsive rules for narrower screens.
+This project is a desktop-first recreation of the Cursor developer tool landing page, built as part of a frontend assignment.
 
-## Quick preview
+## 📌 Sections Recreated
+- Top Navigation Bar
+- Hero Section with CTA
+- Trusted By / Company Logos
+- Feature Sections (3 blocks)
+- Feature Cards Grid
+- Testimonials
+- Use Cases / Frontier Section
+- Changelog / Updates
+- Team / About Section
+- Final Call to Action
+- Footer with multi-column links
 
-Open `index.html` in a browser, or run a local server (recommended):
+## 🎨 Fonts & Colors
+- Font: Inter (Google Fonts)
+- Primary Background: #0d0d0d
+- Card Backgrounds: #1B1913, #14120B
+- Text Muted: #8E8E8E
+- Accent Color: #F54E00
 
-```bash
-python -m http.server 5500
-# then open http://127.0.0.1:5500
-```
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- No JavaScript
+- No frameworks or libraries
 
-## What this project contains
+## 📷 Final Output
 
-- `index.html` — the page markup.
-- `style.css` — all styling (no JavaScript or frameworks).
-- `Assets/` — images and icons used on the page.
-
-## Key features implemented
-
-- Top navigation, hero with CTA, and large showcase image.
-- Trusted-by logo strip and feature sections with images.
-- Feature cards, testimonials, changelog, and footer.
-- Responsive CSS rules for smaller viewports.
-
-## Tech & assets
-
-- HTML5, CSS3 (Google font: Inter via stylesheet link in `index.html`).
-- No JavaScript; purely presentational.
-
-## Notes for contributors
-
-- Replace files in `Assets/` to update imagery.
-- Tweak layout via `style.css` — media queries start at `@media (max-width: 1024px)`.
-- To test cross-browser appearance, open `index.html` in different browsers or use a local server as shown above.
-
-## License
-
-Use as a learning/demo project. No commercial distribution intended unless original assets are cleared.
+![Cursor Landing Page Clone](screencapture-127-0-0-1-5500-2026-02-06-19_31_40.png)
 
